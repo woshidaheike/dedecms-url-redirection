@@ -1,4 +1,4 @@
-# dedecms-url-redirection
+# CVE-2024-57241(CNNVD-2024-34500830)
 For web applications using DEDECMS 5.71SP1 and earlier, URL redirects occur because the source code logic error of the CMS does not judge the input GET request
 使用dedecms 5.71sp1及以下版本的web应用，因为cms的源码逻辑错误未对输入的GET请求进行判断从而发生url重定向
 

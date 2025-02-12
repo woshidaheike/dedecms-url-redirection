@@ -7,6 +7,5 @@ poc使用方法
 
 Just change the domain name of the target.txt
 更改target.txt的域名即可
-
-Sometimes the reason for the failure may be that the access to the primary domain automatically adds /index.html
-有时候失败的原因可能是访问主域名会自动添加/index.html
+Sometimes it fails because the website has a verification mechanism that needs to add user-agent, referer, etc. to the script
+有时失败是因为网站有验证机制需要在脚本中添加user-agent，referer等等

@@ -10,3 +10,7 @@ Just change the domain name of the target.txt
 
 Sometimes it fails because the website has a verification mechanism that needs to add user-agent, referer, etc. to the script
 有时失败是因为网站有验证机制需要在脚本中添加user-agent，referer等等
+
+Update or upgrade patches for earlier versions of DEDECMS
+对低版本的dedecms进行更新或升级补丁
+https://www.dedecms.com/download#changelog（DedeCMS V5.7.65）

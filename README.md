@@ -7,5 +7,6 @@ poc使用方法
 
 Just change the domain name of the target.txt
 更改target.txt的域名即可
+
 Sometimes it fails because the website has a verification mechanism that needs to add user-agent, referer, etc. to the script
 有时失败是因为网站有验证机制需要在脚本中添加user-agent，referer等等
